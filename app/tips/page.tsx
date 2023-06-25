@@ -8,7 +8,6 @@ const Local = () => {
 				<code className="bg-gray-200 p-4 rounded">
 					git clone https://github.com/sadmanador/new_group_next_app
         </code>
-        
 				<p>
 					2: নিজের ব্রাঞ্চ বানায়ে তাতে যান নইলে আগের ব্রাঞ্চে যান (-b
 					বাদ সেক্ষেত্রে){" "}
