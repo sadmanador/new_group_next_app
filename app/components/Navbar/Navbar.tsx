@@ -23,7 +23,7 @@ const Navbar = () => {
                 <Link href="/sakib">Sakib</Link>
               </li>
               <li className="hover:scale-105 transition">
-                <Link href="/morshed">Morshed</Link>
+                <Link href="/tips">Tips</Link>
               </li>
               <li className="hover:scale-105 transition">
                 <Link href="/sadman">Sadman</Link>
