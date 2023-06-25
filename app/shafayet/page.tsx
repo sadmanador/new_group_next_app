@@ -11,7 +11,7 @@ const SafayetPage: NextPage = () => {
 					the Webflow community
 				</h2>
 				<h6 className="text-lg">
-					Browse, clone, and customize the latest websites #MadeinWebflow.{' '}
+					Browse, clone, and customize the latest websites.{' '}
 					<Link href="/" className="text-sky-500 hover:underline transition">
 						Looking for premium templates?
 					</Link>
