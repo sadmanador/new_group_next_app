@@ -7,8 +7,8 @@ const SafayetPage: NextPage = () => {
 		<div className="flex flex-col items-center justify-center min-h-screen px-4 py-10">
 			<div className="text-center space-y-4">
 				<h2 className="text-5xl font-extrabold">
-					Discover <span className="text-sky-500">Cards</span> websites built by
-					the Webflow community
+					Discover <span className="text-sky-500">Cards!!!</span> websites built
+					by the Webflow community
 				</h2>
 				<h6 className="text-lg">
 					Browse, clone, and customize the latest websites.{' '}
