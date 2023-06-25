@@ -1,8 +1,8 @@
 
 const SakibPage = () => {
     return (
-        <div>
-            Hi there It's me sakib
+        <div className="container mx-auto">
+            Hi there, It&apos;s me sakib
         </div>
     );
 };
