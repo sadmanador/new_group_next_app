@@ -4,7 +4,9 @@ const Morshed = () => {
 
   return (
     <div>
-      <p className='text-center my-4'>{ Date() }</p>
+      <p>
+        zzz
+      </p>
     </div>
   );
 };
