@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Raatchasan",
+    "production_house": "Sathya Jyothi Films",
+    "image, url": "https://i.ibb.co/BZb1v6p/Ratsasan.jpg",
+    "genre": "Thriller",
+    "ratings": "8.3"
+  },
+  {
+    "title": "Andhadhun",
+    "production_house": "Matchbox Pictures",
+    "image, url": "https://i.ibb.co/68Zr1Lh/Andha-Dhun.jpg",
+    "genre": "Thriller",
+    "ratings": "8.2"
+  },
+  {
+    "title": "Fall",
+    "production_house": "Capstone Studios",
+    "image, url": "https://i.ibb.co/ZLrVh3p/Fall.jpg",
+    "genre": "Thriller",
+    "ratings": "6.4"
+  },
+  {
+    "title": "Inception",
+    "production_house": "Warner Bros",
+    "image, url": "https://i.ibb.co/1Q72rmY/Inception.jpg",
+    "genre": "Thriller",
+    "ratings": "8.8"
+  },
+  {
+    "title": "Drishyam",
+    "production_house": "Motion Pictures",
+    "image, url": "https://i.ibb.co/bs9kdZD/Drishyam.jpg",
+    "genre": "Thriller",
+    "ratings": "8.2"
+  },
+  {
+    "title": "HIT: The First Case",
+    "production_house": "T-Series Films ",
+    "image, url": "https://i.ibb.co/njVD4RZ/HIT-The-first-case.jpg",
+    "genre": "Thriller",
+    "ratings": "6.8"
+  },
+  {
+    "title": "HIT",
+    "production_house": "Wall Poster Cinema",
+    "image, url": "https://i.ibb.co/30DGbjB/HIT.jpg",
+    "genre": "Thriller",
+    "ratings": "7.6"
+  },
+  {
+    "title": "John Wick: Chapter 4",
+    "production_house": "87Eleven Entertainment",
+    "image, url": "https://i.ibb.co/jwQ1WjX/Jhon-wick-4.jpg",
+    "genre": "Thriller",
+    "ratings": "7.9"
+  },
+  {
+    "title": "The Maze Runner",
+    "production_house": "Twentieth Century Fox",
+    "image, url": "https://i.ibb.co/0mp1gRQ/The-Maze-Runner.jpg",
+    "genre": "Thriller",
+    "ratings": "6.8"
+  },
+  {
+    "title": "Mirror Game",
+    "production_house": "Content Matters Production",
+    "image, url": "https://i.ibb.co/hs1pRWM/Aynabazi.jpg",
+    "genre": "Thriller",
+    "ratings": "9.0"
+  },
+  {
+    "title": "The Conjuring",
+    "production_house": "New Line Cinema",
+    "imageURL": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSPN0jFXkjp_5YGSBfMIWZb5VXfoECC9PFWmBci9gc4NhbUUa3m",
+    "genre": "Horror",
+    "ratings": 7.5
+},
+{
+    "title": "Hereditary",
+    "production_house": "A24",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/d/d9/Hereditary.png",
+    "genre": "Horror",
+    "ratings": 7.3
+},
+{
+    "title": "A Quiet Place",
+    "production_house": "Paramount Pictures",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/a/a0/A_Quiet_Place_film_poster.png",
+    "genre": "Horror",
+    "ratings": 7.5
+},
+{
+    "title": "Get Out",
+    "production_house": "Universal Pictures",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/a/a3/Get_Out_poster.png",
+    "genre": "Horror",
+    "ratings": 7.7
+},
+{
+    "title": "The Babadook",
+    "production_house": "Causeway Films",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/The-Babadook-Poster.jpg/220px-The-Babadook-Poster.jpg",
+    "genre": "Horror",
+    "ratings": 6.8
+},
+{
+    "title": "It Follows",
+    "production_house": "Northern Lights Films",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/It_Follows_%28poster%29.jpg/220px-It_Follows_%28poster%29.jpg",
+    "genre": "Horror",
+    "ratings": 6.8
+},
+{
+    "title": "The Exorcist",
+    "production_house": "Warner Bros.",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Exorcist_ver2.jpg/220px-Exorcist_ver2.jpg",
+    "genre": "Horror",
+    "ratings": 8.0
+},
+{
+    "title": "Paranormal Activity",
+    "production_house": "Blumhouse Productions",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Paranormal_Activity_poster.jpg/220px-Paranormal_Activity_poster.jpg",
+    "genre": "Horror",
+    "ratings": 6.3
+},
+{
+    "title": "The Shining",
+    "production_house": "Hawk Films",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/The_Shining_%281980%29_U.K._release_poster_-_The_tide_of_terror_that_swept_America_IS_HERE.jpg/220px-The_Shining_%281980%29_U.K._release_poster_-_The_tide_of_terror_that_swept_America_IS_HERE.jpg",
+    "genre": "Horror",
+    "ratings": 8.4
+},
+{
+    "title": "Insidious",
+    "production_house": "Blumhouse Productions",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Insidious_poster.jpg/220px-Insidious_poster.jpg",
+    "genre": "Horror",
+    "ratings": 6.8
+}
+]

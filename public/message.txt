@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Raatchasan",
+    "production_house": "Sathya Jyothi Films",
+    "image": "https://i.ibb.co/BZb1v6p/Ratsasan.jpg",
+    "url":"<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/GsrN7rNch9Y\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+    "genre": "Thriller",
+    "ratings": "8.3"
+  },
+  {
+    "title": "Andhadhun",
+    "production_house": "Matchbox Pictures",
+    "image": "https://i.ibb.co/68Zr1Lh/Andha-Dhun.jpg",
+    "url":"<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/2iVYI99VGaw\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+    "genre": "Thriller",
+    "ratings": "8.2"
+  },
+  {
+    "title": "Fall",
+    "production_house": "Capstone Studios",
+    "image": "https://i.ibb.co/ZLrVh3p/Fall.jpg",
+    "url":"<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/h4P34ecf-IQ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;picture-in-picture; web-share\" allowfullscreen></iframe>",
+    "genre": "Thriller",
+    "ratings": "6.4"
+  },
+  {
+    "title": "Inception",
+    "production_house": "Warner Bros",
+    "image": "https://i.ibb.co/1Q72rmY/Inception.jpg",
+    "url":"<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/YoHD9XEInc0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+    "genre": "Thriller",
+    "ratings": "8.8"
+  },
+  {
+    "title": "Drishyam",
+    "production_house": "Motion Pictures",
+    "image": "https://i.ibb.co/bs9kdZD/Drishyam.jpg",
+    "url":"<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/AuuX2j14NBg\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+    "genre": "Thriller",
+    "ratings": "8.2"
+  },
+  {
+    "title": "HIT: The First Case",
+    "production_house": "T-Series Films ",
+    "image": "https://i.ibb.co/njVD4RZ/HIT-The-first-case.jpg",
+    "url":"<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/JtdCIn47v5g\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+    "genre": "Thriller",
+    "ratings": "6.8"
+  },
+  {
+    "title": "HIT",
+    "production_house": "Wall Poster Cinema",
+    "image": "https://i.ibb.co/30DGbjB/HIT.jpg",
+    "url":"<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/uYdsWe9iBAA\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+    "genre": "Thriller",
+    "ratings": "7.6"
+  },
+  {
+    "title": "John Wick: Chapter 4",
+    "production_house": "87Eleven Entertainment",
+    "image": "https://i.ibb.co/jwQ1WjX/Jhon-wick-4.jpg",
+    "url":"<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/uYdsWe9iBAA\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+    "genre": "Thriller",
+    "ratings": "7.9"
+  },
+  {
+    "title": "The Maze Runner",
+    "production_house": "Twentieth Century Fox",
+    "image": "https://i.ibb.co/0mp1gRQ/The-Maze-Runner.jpg",
+    "url":"<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/AwwbhhjQ9Xk\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+    "genre": "Thriller",
+    "ratings": "6.8"
+  },
+  {
+    "title": "Mirror Game",
+    "production_house": "Content Matters Production",
+    "image": "https://i.ibb.co/hs1pRWM/Aynabazi.jpg",
+    "url":"<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/lz31hZmK3jc\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+    "genre": "Thriller",
+    "ratings": "9.0"
+  }
+]

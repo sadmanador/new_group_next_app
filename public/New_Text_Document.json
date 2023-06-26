@@ -1,0 +1,72 @@
+[
+    {
+        "title": "The Conjuring",
+        "production_house": "New Line Cinema",
+        "imageURL": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSPN0jFXkjp_5YGSBfMIWZb5VXfoECC9PFWmBci9gc4NhbUUa3m",
+        "genre": "Horror",
+        "ratings": 7.5
+    },
+    {
+        "title": "Hereditary",
+        "production_house": "A24",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/en/d/d9/Hereditary.png",
+        "genre": "Horror",
+        "ratings": 7.3
+    },
+    {
+        "title": "A Quiet Place",
+        "production_house": "Paramount Pictures",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/en/a/a0/A_Quiet_Place_film_poster.png",
+        "genre": "Horror",
+        "ratings": 7.5
+    },
+    {
+        "title": "Get Out",
+        "production_house": "Universal Pictures",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/en/a/a3/Get_Out_poster.png",
+        "genre": "Horror",
+        "ratings": 7.7
+    },
+    {
+        "title": "The Babadook",
+        "production_house": "Causeway Films",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/The-Babadook-Poster.jpg/220px-The-Babadook-Poster.jpg",
+        "genre": "Horror",
+        "ratings": 6.8
+    },
+    {
+        "title": "It Follows",
+        "production_house": "Northern Lights Films",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/It_Follows_%28poster%29.jpg/220px-It_Follows_%28poster%29.jpg",
+        "genre": "Horror",
+        "ratings": 6.8
+    },
+    {
+        "title": "The Exorcist",
+        "production_house": "Warner Bros.",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Exorcist_ver2.jpg/220px-Exorcist_ver2.jpg",
+        "genre": "Horror",
+        "ratings": 8.0
+    },
+    {
+        "title": "Paranormal Activity",
+        "production_house": "Blumhouse Productions",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Paranormal_Activity_poster.jpg/220px-Paranormal_Activity_poster.jpg",
+        "genre": "Horror",
+        "ratings": 6.3
+    },
+    {
+        "title": "The Shining",
+        "production_house": "Hawk Films",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/The_Shining_%281980%29_U.K._release_poster_-_The_tide_of_terror_that_swept_America_IS_HERE.jpg/220px-The_Shining_%281980%29_U.K._release_poster_-_The_tide_of_terror_that_swept_America_IS_HERE.jpg",
+        "genre": "Horror",
+        "ratings": 8.4
+    },
+    {
+        "title": "Insidious",
+        "production_house": "Blumhouse Productions",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Insidious_poster.jpg/220px-Insidious_poster.jpg",
+        "genre": "Horror",
+        "ratings": 6.8
+    }
+]

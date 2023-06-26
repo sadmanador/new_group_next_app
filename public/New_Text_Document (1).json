@@ -1,0 +1,84 @@
+[
+    {
+        "title": "The Conjuring",
+        "production_house": "New Line Cinema",
+        "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSPN0jFXkjp_5YGSBfMIWZb5VXfoECC9PFWmBci9gc4NhbUUa3m",
+        "url": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/k10ETZ41q5o\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+        "genre": "Horror",
+        "ratings": 7.5
+    },
+    {
+        "title": "Hereditary",
+        "production_house": "A24",
+        "image": "https://upload.wikimedia.org/wikipedia/en/d/d9/Hereditary.png",
+        "url": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/V6wWKNij_1M?controls=0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+        "genre": "Horror, Drama",
+        "ratings": 7.3
+    },
+    {
+        "title": "A Quiet Place",
+        "production_house": "Paramount Pictures",
+        "image": "https://upload.wikimedia.org/wikipedia/en/a/a0/A_Quiet_Place_film_poster.png",
+        "url": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/WR7cc5t7tv8?controls=0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+        "genre": "Horror",
+        "ratings": 7.5
+    },
+    {
+        "title": "Get Out",
+        "production_house": "Universal Pictures",
+        "image": "https://upload.wikimedia.org/wikipedia/en/a/a3/Get_Out_poster.png",
+        "url": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/DzfpyUB60YY?controls=0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+        "genre": "Horror, Mystery",
+        "ratings": 7.7
+    },
+    {
+        "title": "The Babadook",
+        "production_house": "Causeway Films",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/The-Babadook-Poster.jpg/220px-The-Babadook-Poster.jpg",
+        "url": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/k5WQZzDRVtw?controls=0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+        "genre": "Horror, Drama",
+        "ratings": 6.8
+    },
+    {
+        "title": "It Follows",
+        "production_house": "Northern Lights Films",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/It_Follows_%28poster%29.jpg/220px-It_Follows_%28poster%29.jpg",
+        "url": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/96Itg4gjtts?controls=0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+        "genre": "Horror, Mystery",
+        "ratings": 6.8
+    },
+    {
+        "title": "The Pope's Exorcist",
+        "production_house": "Warner Bros.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/ThePopesExorcistPoster.png/220px-ThePopesExorcistPoster.png",
+        "url": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/YJXqvnT_rsk?controls=0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+        "genre": "Horror",
+        "ratings": 8.0
+    },
+    {
+        "title": "Paranormal Activity",
+        "production_house": "Blumhouse Productions",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Paranormal_Activity_poster.jpg/220px-Paranormal_Activity_poster.jpg",
+        "url": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/F_UxLEqd074?controls=0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+        "genre": "Horror",
+        "ratings": 6.3
+    },
+    {
+        "title": "The Shining",
+        "production_house": "Hawk Films",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/The_Shining_%281980%29_U.K._release_poster_-_The_tide_of_terror_that_swept_America_IS_HERE.jpg/220px-The_Shining_%281980%29_U.K._release_poster_-_The_tide_of_terror_that_swept_America_IS_HERE.jpg",
+        "url": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/FZQvIJxG9Xs?controls=0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+        "genre": "Horror",
+        "ratings": 8.4
+    },
+    {
+        "title": "Insidious",
+        "production_house": "Blumhouse Productions",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Insidious_poster.jpg/220px-Insidious_poster.jpg",
+        "url": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/zuZnRUcoWos?controls=0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+        "genre": "Horror, Thriller",
+        "ratings": 6.8
+    }
+]
+
+

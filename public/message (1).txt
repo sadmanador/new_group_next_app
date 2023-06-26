@@ -1,0 +1,82 @@
+[
+	{
+		title: 'Back to the Future',
+		production_house: 'Universal Pictures',
+		imageURL:
+			'<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/C-4Pr9kBtGc?start=21\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>',
+		genre: 'Comedy, Adventure, Sci-Fi',
+		ratings: 8.5,
+	},
+	{
+		title: 'Snatch',
+		production_house: 'Columbia Pictures',
+		imageURL:
+			'<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/9Jar2XkBboo?start=5\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>',
+		genre: 'Comedy, Crime',
+		ratings: 8.3,
+	},
+	{
+		title: 'The Big Lebowski',
+		production_house: 'PolyGram Filmed Entertainment',
+		imageURL:
+			'<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/GiwMMziJdqg?start=3\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>',
+		genre: 'Comedy, Crime',
+		ratings: 8.1,
+	},
+	{
+		title: 'Fantastic Mr. Fox',
+		production_house: '20th Century Fox',
+		imageURL:
+			'<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/O-qNERe2P-s?start=6\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>',
+		genre: 'Animation, Adventure, Comedy',
+		ratings: 7.9,
+	},
+	{
+		title: 'Shrek',
+		production_house: 'DreamWorks Animation',
+		imageURL:
+			'<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/lNfei4YCZ5o?start=11\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>',
+		genre: 'Animation, Adventure, Comedy',
+		ratings: 7.8,
+	},
+	{
+		title: 'Ant-Man and the Wasp: Quantumania',
+		production_house: 'Marvel Studios',
+		imageURL:
+			'<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/ZlNFpri-Y40?start=4\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>',
+		genre: 'Action, Adventure, Comedy',
+		ratings: 0,
+	},
+	{
+		title: 'Kung Fu Panda',
+		production_house: 'DreamWorks Animation',
+		imageURL:
+			'<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/NRc-ze7Wrxw?start=9\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>',
+		genre: 'Animation, Action, Adventure',
+		ratings: 7.5,
+	},
+	{
+		title: 'Despicable Me',
+		production_house: 'Universal Pictures',
+		imageURL:
+			'<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/sUkZFetWYY0?start=70\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>',
+		genre: 'Animation, Comedy, Family',
+		ratings: 7.6,
+	},
+	{
+		title: 'The Lego Batman Movie',
+		production_house: 'Warner Bros. Animation',
+		imageURL:
+			'<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/rGQUKzSDhrg?start=4\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>',
+		genre: 'Animation, Action, Comedy',
+		ratings: 7.3,
+	},
+	{
+		title: 'Megamind',
+		production_house: 'DreamWorks Animation',
+		imageURL:
+			'<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/ead9HCX9fe4?start=2\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>',
+		genre: 'Animation, Action, Comedy',
+		ratings: 7.2,
+	},
+];
