@@ -1,9 +1,10 @@
 import React from 'react';
 
 const Morshed = () => {
+
   return (
     <div>
-      <p>last for today</p>
+      <p className='text-center my-4'>{ Date() }</p>
     </div>
   );
 };
