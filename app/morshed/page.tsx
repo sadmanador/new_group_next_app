@@ -4,8 +4,7 @@ const Morshed = () => {
 
   return (
     <div>
-      <p>not last for today</p>
-      <p> not last for today</p>
+      
     </div>
   );
 };
