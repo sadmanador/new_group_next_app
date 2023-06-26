@@ -3,7 +3,9 @@ import React from 'react';
 const Morshed = () => {
   return (
     <div>
-      <p>last for today</p>
+      <p>not last for today</p>
+      <p>{ Date()}</p>
+      <p> not last for today</p>
     </div>
   );
 };
